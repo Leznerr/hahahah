@@ -1,0 +1,203 @@
+#title {
+    background-color: #a889db;
+    
+}
+h1 {  font-family: 'Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif';  
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+    color:aliceblue;
+    padding-top: 70px;}
+
+.container-fluid{
+    padding: 3% 15%;
+    position:relative;
+    top: 1px;
+    z-index: 5;
+}
+.mynamebrand{
+    font-family: 'Bagel Fat One', cursive;
+    Font-weight: 900;
+    position: relative;
+    right:15px;
+    font-size: x-large;
+    color:aliceblue
+}
+.picko{
+    
+    border-radius:100px;
+    height: 50%;
+    width:100%;
+    
+    transition: transform .2s;
+    
+    
+    margin:0 auto;
+    background-color: rgb(173, 173, 237);
+    border-radius: 10px;
+    
+    position: absolute; 
+    height: 300px;
+    width: 300px;
+    left: 610px;
+    bottom: 50px;
+    
+    z-index: 0;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 900;
+    color:rgb(23, 23, 24);
+    
+}
+.navbar{
+    padding-bottom:0 0 3.5rem
+}
+
+.nav-link{
+    color:#fff;
+    margin:Auto 10px Auto 10px;
+}
+
+.download-button{
+    margin: 5% 5% 5% 0;
+}
+
+.fitures{
+    padding: 7% 7%;
+}
+#features{
+    background-color: #ffffff;
+    
+    position: relative;
+    z-index: 0;
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900px;
+
+}
+.fa-solid:hover{
+    color: red;
+}
+.picko:hover{
+    transform: scale(1.5);
+}
+
+.ikon{
+    color:rgb(205, 172, 172)
+}
+
+.pp{
+    color: #8f8f8f;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100px;
+}
+#testimonials{
+    background-color: #aea0d0;
+    padding: 2% 15%;
+    text-align: center;
+    color:#fff
+}
+h2{font-family: "Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif";
+    font-weight: 900px;
+    font-size: 70px;
+}
+.em{
+    position: relative;
+    top:150px;
+    right:150px;
+    font-weight:100px
+}
+#press{
+    background-color: #aea0d0;
+    padding-top:5%;
+    padding-bottom: 5%;
+    text-align: center;
+
+}
+.press{
+    width:15%;
+    margin:20px 20px 50px;
+}
+.carousel-item{
+    padding: 7%
+}
+
+
+#pricing{
+    background-color:#fff;
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom:100px
+
+}
+.section-heading{
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+
+@media (max-width:992px){
+ .title-image{
+    position: relative;
+    top:1000px}
+
+  #title{
+    text-align: center;
+  }
+}
+
+.zyzz{
+    padding-bottom: 100px;
+}
+.ronny{
+    padding-bottom:61.896px;
+    Height:20rem;
+}
+#cta{
+    background-color: #a889db;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom:100px;
+}
+#footer{
+    background-color: #ffffff;
+    text-align: center;
+    padding-top:70px;
+    padding-bottom: 25px;
+}
+#footbtn{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight: Bold;
+}
+
+.h3h3{
+    font-family: "Montserrat";
+    font-weight: bold;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-top:100px
+}
+#linki1{
+    text-decoration: none;
+    color:#ffffff
+}
+#linkiioo{
+    text-decoration: none;
+    color:#ffffff
+}
+.helooo{
+    position: relative;
+    right:1px;
+    bottom:30px;
+    text-align: center;
+    margin:auto;
+    
+
+
+}
